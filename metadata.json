@@ -1,0 +1,6 @@
+{
+  "name": "FR_OS Security Appliance & Firewall Control",
+  "description": "Enterprise-grade firewall and network operating system featuring eBPF/XDP packet acceleration, L7 deep packet inspection, Zero-Trust ZTNA, and live telemetry mesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
